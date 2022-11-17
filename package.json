@@ -4,8 +4,7 @@
   "description": "Learning node js",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js" 
-
+    "start": "nodemon index.js"
   },
   "author": "Anurag Sharma",
   "license": "ISC",
@@ -13,6 +12,7 @@
     "slugify": "^1.6.5"
   },
   "devDependencies": {
-    "nodemon": "^2.0.20"
+    "nodemon": "^2.0.20",
+    "prettier": "2.7.1"
   }
 }
